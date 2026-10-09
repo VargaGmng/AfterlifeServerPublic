@@ -1,20 +1,182 @@
 Afterlife Server Rules
 General Rules:
-• 1.0 No Hacking, Cheating, Duping, Exploiting or loot cycling
-• 1.1 No use of Nvidia Inspector
-• 1.2 No toxic behavior (hate speech, rasism or homophobia)
-• 1.3 No moonwalk, ice walking or meatballing
-• 1.4 No vortexing (Glitching your head through objects to gain an advantage)
-• 1.5 No meta-gaming (leak baselocations, pvp positions)
-• 1.6 No streamsniping
-• 1.7 No second account (alt account) - One player is allowed to play only on one account
-• 1.8 No abuse of bugs or glitches (game breaking bugs must be reported via ticket - others must be reported in the designated Discord channel)
-• 1.9 Do not impersonate as admin or owner
-• 1.10 Do not be disrespectful to staffs or call them out for admin abuse (contact server owners)
-• 1.11 No logout in Bunker, Key or Keycard rooms (If the game crashes or the server restarts, you must log back in. If you do not log back in, it will be considered as logging out)
-• 1.13 Do not abuse the dogtag trader - kill your friends and collect their dogtags
-• 1.14 Do not abuse trader failures (they must be reported via ticket)
-• 1.15 Do not abuse render errors and use them
-• 1.16 Do not call out hackers in the global chat, open a ticket!
-• 1.17 Do not call out bugs or failures in the global chat!
-• 1.18 Players with CF tools access must not share screenshots or information from other players, this can result in a ban
+1.1 Cheats, Exploits & External Tools
+• No hacking, cheating, duping, exploiting, or loot cycling.
+• No use of Nvidia Inspector or similar tools that give unfair advantages.
+• No use of bugged movements such as moonwalking, ice walking, meatballing.
+• No vortexing (clipping your head or camera through objects to gain info or advantage).
+• Do not abuse any bugs or glitches.
+• Game-breaking bugs must be reported via ticket.
+• Other bugs should be reported in the designated Discord channel.
+• Do not abuse render errors or use them intentionally in PvP or raiding.
+
+1.2 Behavior & Communication
+• No hate speech, racism or homophobia.
+• No extremely toxic behavior, heavy insults, or targeted harassment.
+• Do not call out hackers or accuse people of cheating in global chat – open a ticket instead.
+• Do not call out bugs or issues in global chat – use tickets/Discord.
+
+1.3 Meta-Gaming & Accounts
+• No meta-gaming:
+• Do not leak base locations, PvP spots, or private info from streams/Discord.
+• No stream sniping.
+• No alt accounts: 1 player = 1 account on the server.
+• Players with CF Tools (or similar) access do not share screenshots or information about other players.
+
+1.4 Staff & Admins
+• Do not impersonate admins, moderators, or owners.
+• Do not publicly accuse staff of abuse – if you suspect abuse, contact the owners via ticket.
+• Staff decisions must be respected. Constructive criticism is allowed, but not disrespect.
+
+1.5 Logout
+• No logging out in the bunker or key/keycard rooms.
+• If the game crashes or the server restarts, you must log back in as soon as possible.
+• If you do not log back in, it may be treated as intentional logout.
+• No logging out inside enemy bases during or right after a raid. If you disconnect, you must respawn reasonably soon, otherwise it can be counted as combat logging.
+
+1.6 Trader & Special Systems
+• Do not abuse the dogtag trader (for example killing your friends just to farm dogtags).
+• Do not abuse trader bugs or failures. They must be reported via ticket.
+
+
+Group Rules:
+2.1 Group Size & Alliances
+• Maximum group/clan size is 6 players.
+• A group do not have more than 6 members online at the same time.
+• Alliances are allowed but:
+• Alliances together do not exceed 6 players actively playing together in a fight.
+• You do not merge alliances into one group to bypass the 6-player limit.
+
+2.2 Group Switching
+• Players are not allowed to constantly hop between groups to bypass rules.
+
+2.3 Base Sharing
+• Groups and alliances do not share bases.
+• Do not store loot or vehicles in a base that does not belong to your own group.
+• Alliance bases must be at least 2 km apart.
+
+2.4 Group Limits (Territory, Safes, Vehicles)
+• Maximum 2 territories per group
+• 1 main base
+• 1 second/temporary base
+• Maximum 7 big safes per group
+• Big safes count towards the codelocked storage limit.
+• Maximum 15 codelocked storage per group
+• Any type of codelocked storage counts.
+• Maximum 8 vehicles of any type per group.
+
+Building Rules:
+3.1 Base Location
+• No base building directly on main roads.
+• Building over a road is allowed if a truck can pass underneath.
+• No sky bases or floating bases.
+• Your base must follow basic physical logic (one floor may slightly stick out, but no crazy floating structures).
+• If you build in or on an existing building, you may only build in/on one building.
+• Players do not intentionally block access to wells, wood piles, or other important resources with base parts.
+
+3.2 Number & Size of Bases
+• Each group is allowed 2 bases:
+• 1 main base
+• 1 second/temporary base
+• Main base:
+• Maximum 15 doors/gates/hatches with codelocks.
+• You may build up to 4 walls high from the ground and up to 2 walls high on existing structures.
+• Second base:
+• Maximum 2 doors/gates/hatches.
+• Maximum 2 walls high.
+• Must not exceed more than 6 foundations/floors/roofs in total.
+• Must be at least 500 m away from your main base.
+
+3.3 Raidability & Fairness
+• Your base must be raidable at all times.
+• Do not block doors/gates/hatches, including with storage.
+• No stacking or glitching storage (no container-in-container or tent-in-tent stacking).
+• You do not build in a way that forces raiders to be permanently crawling, crouching, climbing, or jumping through your whole base.
+• DayZ ladders may be used in your base, but according to the animation rule they do not be defended while attackers are stuck in the climbing animation.
+• Peeks are allowed, but raiders must have a fair chance to defend themselves.
+• No “toe peeks” or similar unfair angles.
+
+If an admin classifies a base as unraidable, they may interrupt the raid and adjust the base.
+If you are unsure whether your building style is allowed, open a ticket.
+
+Raiding Rules:
+4.1 Recording Requirement
+• You must record your raid – not just the moment you get into the base.
+• Save your clips locally for at least 5 days.
+• Staff can ask for the footage at any time.
+• Clips are only used by staff and will not be shared with other players.
+
+4.2 Griefing & Loot Handling
+• No useless griefing:
+• Do not throw massive amounts of loot on the ground just to let it despawn.
+• Do not destroy loot for no reason.
+• Exception: starter gear or very low-tier items may be dumped.
+• Raiders and defenders do not delete loot on purpose (burning, shooting, or other ways of destroying it).
+
+4.3 Glitches & Takeovers
+• No glitching into bases that are otherwise impossible to enter (e.g., animation bugs).
+• No “takeover bases”:
+• If you see a raided or half-built base and want to claim it, open a ticket first.
+• No logging out inside enemy bases during or after a raid. If you crash, reconnect and respawn – otherwise it counts as logging out.
+
+4.4 Base Elements During Raids
+• Do not remove resources from territory station – this counts as griefing.
+• Do not dismantle base elements just to collect materials and kits.
+• Only dismantle what is necessary to get in or out.
+• You may only raid from the soft side (inner side) of walls, except when fixing building errors or bypassing doors in a reasonable way.
+• Over-dismantling can be interpreted as griefing.
+
+4.5 Movement & Boosting
+• You are allowed to crawl through windows.
+• You are allowed to boost with:
+• 2 players, 1 item, or 1 land vehicle.
+• You do not boost using helicopters (e.g., jumping onto a hovering heli to boost into bases).
+• Helicopter raids are allowed:
+• Landing on/in bases.
+• Jumping from the heli seat onto balconies or base structures.
+
+4.6 Animation Rule (Defenders)
+• If your base has ladders or other elements that force attackers to play an animation (climb, vault, etc.),
+• You do not use that animation state to gain an advantage.
+• You do not defend positions that require the attacker to be stuck in an animation.
+• Video evidence is required in such cases.
+
+Additional:
+• Combat logging in PvP situations (logging out shortly after being shot at or spotted) may be punished as a rulebreak.
+
+Ban Policy:
+Ban Policy
+
+• For most rules, we use a strike system.
+• Examples: combat logging, minor bug abuse (depending on severity).
+• Certain severe rulebreaks result in an immediate permanent ban.
+• Examples: cheating, hacking, extreme racism, heavy abuse or exploitation.
+
+We have zero tolerance against:
+• Cheats and hacks
+• Massive abuse of bugs
+• Racism, hate speech, or homophobia
+Rules may be changed at any time without prior notice.
+It is your responsibility to stay up to date with the rules.
+
+Staff & Ticket
+
+• Staff decisions are to be respected and accepted.
+• You may give feedback or criticism, but it must be constructive and not disrespectful.
+• Staff work in their free time – this is not a job. Please be patient.
+• It may take up to 12 hours for a ticket to receive a response.
+
+Video Evidence & Compensation:
+Video Evidence Tips
+
+• We recommend using tools like Medal.tv or NVIDIA Shadowplay – they have minimal performance impact.
+• We do not recommend OBS for constant recording due to its performance cost.
+• Good video evidence makes support cases easier and increases the chance of refunds in valid situations.
+
+Compensation
+
+• We do not compensate for typical DayZ bugs or normal gameplay issues.
+• Compensation is only given for:
+• Server crashes
+• Clear server-side errors
+• Verified staff/system mistakes with sufficient evidence
